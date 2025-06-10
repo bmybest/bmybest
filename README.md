@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Auraion Pinsiri</h1>
 <h3 align="center">You can call me Best. I am currently studying in the Bachelor of Engineering Program in Computer Engineering and Digital Technology at Chulalongkorn University.</h3>
 
-- 📫 How to reach me **auraion.pins@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
