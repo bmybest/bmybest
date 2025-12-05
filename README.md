@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">You can call me Best or Pa-rin. I am currently studying in the Bachelor of Engineering Program in Computer Engineering and Digital Technology at Chulalongkorn University.<br><br>- 📚 I'm currently learning programming, AI.</p>
+<p align="left">You can call me Best or Pa-rin. I am currently studying Computer Engineering and Digital Technology at Chulalongkorn University.<br><br>- 📚 I'm currently learning programming, AI.</p>
 
 ###
 
